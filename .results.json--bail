@@ -1,0 +1,138 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 6,
+    "passes": 0,
+    "pending": 0,
+    "failures": 6,
+    "start": "2024-03-21T08:57:18.579Z",
+    "end": "2024-03-21T08:57:18.828Z",
+    "duration": 249
+  },
+  "tests": [
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: divide is not defined\n    at Context.<anonymous> (test/indexTest.js:5:12)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "divide is not defined"
+      }
+    },
+    {
+      "title": "divide divides 2000 by 100",
+      "fullTitle": "index.js divide divides 2000 by 100",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: divide is not defined\n    at Context.<anonymous> (test/indexTest.js:11:5)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "divide is not defined"
+      }
+    },
+    {
+      "title": "has an arrow function called square",
+      "fullTitle": "index.js has an arrow function called square",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: square is not defined\n    at Context.<anonymous> (test/indexTest.js:15:12)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "square is not defined"
+      }
+    },
+    {
+      "title": "square arrow function takes one parameter and multiplies it times itself",
+      "fullTitle": "index.js square arrow function takes one parameter and multiplies it times itself",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: square is not defined\n    at Context.<anonymous> (test/indexTest.js:20:5)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "square is not defined"
+      }
+    },
+    {
+      "title": "has an arrow function called add",
+      "fullTitle": "index.js has an arrow function called add",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: add is not defined\n    at Context.<anonymous> (test/indexTest.js:24:12)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "add is not defined"
+      }
+    },
+    {
+      "title": "add arrow function takes two parameters and adds them together",
+      "fullTitle": "index.js add arrow function takes two parameters and adds them together",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: add is not defined\n    at Context.<anonymous> (test/indexTest.js:30:5)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "add is not defined"
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: divide is not defined\n    at Context.<anonymous> (test/indexTest.js:5:12)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "divide is not defined"
+      }
+    },
+    {
+      "title": "divide divides 2000 by 100",
+      "fullTitle": "index.js divide divides 2000 by 100",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: divide is not defined\n    at Context.<anonymous> (test/indexTest.js:11:5)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "divide is not defined"
+      }
+    },
+    {
+      "title": "has an arrow function called square",
+      "fullTitle": "index.js has an arrow function called square",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: square is not defined\n    at Context.<anonymous> (test/indexTest.js:15:12)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "square is not defined"
+      }
+    },
+    {
+      "title": "square arrow function takes one parameter and multiplies it times itself",
+      "fullTitle": "index.js square arrow function takes one parameter and multiplies it times itself",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: square is not defined\n    at Context.<anonymous> (test/indexTest.js:20:5)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "square is not defined"
+      }
+    },
+    {
+      "title": "has an arrow function called add",
+      "fullTitle": "index.js has an arrow function called add",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: add is not defined\n    at Context.<anonymous> (test/indexTest.js:24:12)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "add is not defined"
+      }
+    },
+    {
+      "title": "add arrow function takes two parameters and adds them together",
+      "fullTitle": "index.js add arrow function takes two parameters and adds them together",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: add is not defined\n    at Context.<anonymous> (test/indexTest.js:30:5)\n    at process.processImmediate (node:internal/timers:478:21)",
+        "message": "add is not defined"
+      }
+    }
+  ],
+  "passes": []
+}
